@@ -1,0 +1,585 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>Império Cimentícios | Cobogós em Jacutinga, MG</title>
+
+  <meta
+    name="description"
+    content="Cobogós e elementos cimentícios para fachadas, divisórias, áreas internas e externas. Conheça modelos e peça seu orçamento com a Império Cimentícios, em Jacutinga, MG."
+  />
+
+  <meta name="theme-color" content="#173b3d" />
+  <meta name="robots" content="index,follow,max-image-preview:large" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Império Cimentícios | Cobogós que transformam espaços" />
+  <meta
+    property="og:description"
+    content="Elementos cimentícios para criar fachadas, divisórias e ambientes com identidade, ventilação e luz."
+  />
+  <meta property="og:image" content="/hero.webp" />
+
+  <link
+    rel="icon"
+    href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='18' fill='%23173b3d'/%3E%3Cpath d='M18 50c13-25 26-25 39 0-13 25-26 25-39 0Zm25 0c13-25 26-25 39 0-13 25-26 25-39 0Z' fill='none' stroke='%23f6f2e9' stroke-width='8'/%3E%3C/svg%3E"
+  />
+
+  <link rel="stylesheet" href="/styles.css" />
+
+  <!-- Corrige o hero para a estrutura atual do GitHub,
+       onde as imagens estão na raiz do repositório -->
+  <style>
+    .hero-media {
+      background-image: url('/hero.webp') !important;
+    }
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Império Cimentícios",
+    "description": "Cobogós e elementos cimentícios para aplicações arquitetônicas.",
+    "telephone": "+55 35 99943-2044",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Jacutinga",
+      "addressRegion": "MG",
+      "addressCountry": "BR"
+    },
+    "sameAs": [
+      "https://www.instagram.com/imperioc_/"
+    ],
+    "areaServed": "Brasil"
+  }
+  </script>
+</head>
+
+<body>
+
+  <a class="skip-link" href="#conteudo">
+    Ir para o conteúdo
+  </a>
+
+  <header class="site-header" id="inicio">
+    <div class="container nav-wrap">
+
+      <a
+        class="brand"
+        href="#inicio"
+        aria-label="Império Cimentícios — início"
+      >
+        <span class="brand-mark" aria-hidden="true">
+          <i></i>
+          <i></i>
+        </span>
+
+        <span>
+          <strong>IMPÉRIO</strong>
+          <small>CIMENTÍCIOS</small>
+        </span>
+      </a>
+
+      <button
+        class="menu-toggle"
+        aria-label="Abrir menu"
+        aria-expanded="false"
+        aria-controls="menu"
+      >
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav id="menu" class="nav" aria-label="Navegação principal">
+        <a href="#solucoes">Soluções</a>
+        <a href="#modelos">Modelos</a>
+        <a href="#projetos">Projetos</a>
+        <a href="#contato">Contato</a>
+
+        <a
+          class="nav-cta"
+          href="https://wa.me/5535999432044?text=Ol%C3%A1%2C%20vim%20pelo%20site%20da%20Imp%C3%A9rio%20Ciment%C3%ADcios%20e%20quero%20solicitar%20um%20or%C3%A7amento."
+          target="_blank"
+          rel="noopener"
+        >
+          Pedir orçamento
+        </a>
+      </nav>
+
+    </div>
+  </header>
+
+  <main id="conteudo">
+
+    <section class="hero">
+
+      <div
+        class="hero-media"
+        role="img"
+        aria-label="Cobogós aplicados em área gourmet contemporânea"
+      ></div>
+
+      <div class="hero-shade"></div>
+
+      <div class="container hero-content">
+
+        <p class="eyebrow">
+          JACUTINGA, MINAS GERAIS
+        </p>
+
+        <h1>
+          Arquitetura que <em>respira.</em>
+        </h1>
+
+        <p class="hero-copy">
+          Cobogós e elementos cimentícios para criar fachadas,
+          divisórias e ambientes com identidade, ventilação e luz.
+        </p>
+
+        <div class="hero-actions">
+
+          <a
+            class="button button-primary"
+            href="https://wa.me/5535999432044?text=Ol%C3%A1%2C%20vim%20pelo%20site%20da%20Imp%C3%A9rio%20Ciment%C3%ADcios%20e%20quero%20solicitar%20um%20or%C3%A7amento."
+            target="_blank"
+            rel="noopener"
+          >
+            Solicitar orçamento
+            <span>↗</span>
+          </a>
+
+          <a
+            class="button button-ghost"
+            href="https://www.instagram.com/imperioc_/"
+            target="_blank"
+            rel="noopener"
+          >
+            Ver Instagram
+          </a>
+
+        </div>
+
+      </div>
+
+      <a
+        class="hero-scroll"
+        href="#solucoes"
+        aria-label="Ver próxima seção"
+      >
+        ↓
+      </a>
+
+    </section>
+
+    <section class="intro section" id="solucoes">
+
+      <div class="container intro-grid">
+
+        <div>
+
+          <p class="kicker">
+            FORMA + FUNÇÃO
+          </p>
+
+          <h2>
+            Um elemento que muda o espaço sem fechar o ambiente.
+          </h2>
+
+        </div>
+
+        <div class="intro-copy">
+
+          <p>
+            O cobogó cria privacidade sem eliminar a ventilação,
+            filtra a luz e adiciona desenho à arquitetura.
+            Pode ser protagonista ou detalhe — em áreas residenciais,
+            comerciais, internas e externas.
+          </p>
+
+          <div class="benefits">
+            <span>Ventilação natural</span>
+            <span>Luz filtrada</span>
+            <span>Privacidade</span>
+            <span>Identidade visual</span>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <section class="feature-block section-dark">
+
+      <div class="container feature-grid">
+
+        <figure class="feature-image">
+
+          <img
+            src="/feature.webp"
+            alt="Residência contemporânea com cobogós integrados à área externa"
+            loading="lazy"
+            width="1343"
+            height="1536"
+          />
+
+        </figure>
+
+        <div class="feature-copy">
+
+          <p class="kicker light">
+            APLICAÇÕES
+          </p>
+
+          <h2>
+            Da fachada ao interior.
+          </h2>
+
+          <p>
+            Brises, painéis, muros, divisórias e detalhes decorativos.
+            A geometria dos elementos permite composições que acompanham
+            diferentes linguagens de projeto.
+          </p>
+
+          <ul>
+
+            <li>
+              <strong>Fachadas e muros</strong>
+              <span>Proteção visual com presença arquitetônica.</span>
+            </li>
+
+            <li>
+              <strong>Áreas internas</strong>
+              <span>Setorização sem bloquear completamente a luz.</span>
+            </li>
+
+            <li>
+              <strong>Áreas externas</strong>
+              <span>Sombras, ventilação e textura em varandas e jardins.</span>
+            </li>
+
+          </ul>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <section class="models section" id="modelos">
+
+      <div class="container">
+
+        <div class="section-heading">
+
+          <div>
+
+            <p class="kicker">
+              LINHA DE COBOGÓS
+            </p>
+
+            <h2>
+              Desenhos para diferentes projetos.
+            </h2>
+
+          </div>
+
+          <p>
+            Entre modelos geométricos, orgânicos e vazados de diferentes
+            proporções, a escolha do desenho interfere diretamente em luz,
+            ventilação e linguagem visual.
+          </p>
+
+        </div>
+
+        <div class="model-cards">
+
+          <article class="model-card">
+
+            <img
+              src="/model-organic.webp"
+              alt="Modelo de cobogó com desenho orgânico"
+              loading="lazy"
+            />
+
+            <div>
+              <span>ORGÂNICOS</span>
+              <h3>Curvas e ritmo visual</h3>
+            </div>
+
+          </article>
+
+          <article class="model-card">
+
+            <img
+              src="/model-geometric.webp"
+              alt="Modelo geométrico de cobogó"
+              loading="lazy"
+            />
+
+            <div>
+              <span>GEOMÉTRICOS</span>
+              <h3>Linhas e contraste</h3>
+            </div>
+
+          </article>
+
+          <article class="model-card">
+
+            <img
+              src="/model-zeus.webp"
+              alt="Modelo tridimensional de elemento cimentício"
+              loading="lazy"
+            />
+
+            <div>
+              <span>VOLUMÉTRICOS</span>
+              <h3>Profundidade e sombra</h3>
+            </div>
+
+          </article>
+
+        </div>
+
+        <div class="model-list" aria-label="Exemplos de modelos disponíveis">
+
+          <span>Flor</span>
+          <span>16 Furos</span>
+          <span>Árabe</span>
+          <span>4 Pontas</span>
+          <span>Taco</span>
+          <span>Estrela</span>
+          <span>Bandeira</span>
+          <span>Jasmim</span>
+          <span>Trama</span>
+          <span>Estrelado</span>
+          <span>Xis</span>
+          <span>Margarida</span>
+          <span>Trevo</span>
+          <span>Pétalas</span>
+          <span>Zeus</span>
+
+        </div>
+
+        <p class="note">
+          Consulte disponibilidade, medidas e especificações pelo WhatsApp.
+        </p>
+
+      </div>
+
+    </section>
+
+    <section class="projects section" id="projetos">
+
+      <div class="container">
+
+        <div class="section-heading compact">
+
+          <div>
+
+            <p class="kicker">
+              PROJETOS E APLICAÇÕES
+            </p>
+
+            <h2>
+              Quando o material entra na arquitetura.
+            </h2>
+
+          </div>
+
+        </div>
+
+        <div class="gallery">
+
+          <figure class="g1">
+            <img
+              src="/gallery-01.webp"
+              alt="Cobogós escuros em fachada residencial"
+              loading="lazy"
+            />
+          </figure>
+
+          <figure class="g2">
+            <img
+              src="/gallery-04.webp"
+              alt="Cobogós claros em fachada com paisagismo"
+              loading="lazy"
+            />
+          </figure>
+
+          <figure class="g3">
+            <img
+              src="/gallery-07.webp"
+              alt="Cobogós geométricos em ambiente interno"
+              loading="lazy"
+            />
+          </figure>
+
+          <figure class="g4">
+            <img
+              src="/gallery-09.webp"
+              alt="Cobogós aplicados em balcão comercial"
+              loading="lazy"
+            />
+          </figure>
+
+          <figure class="g5">
+            <img
+              src="/gallery-03.webp"
+              alt="Painel de cobogós em área externa iluminada"
+              loading="lazy"
+            />
+          </figure>
+
+          <figure class="g6">
+            <img
+              src="/gallery-06.webp"
+              alt="Cobogós brancos integrados à fachada"
+              loading="lazy"
+            />
+          </figure>
+
+          <figure class="g7">
+            <img
+              src="/gallery-10.webp"
+              alt="Divisória de cobogós em escada contemporânea"
+              loading="lazy"
+            />
+          </figure>
+
+          <figure class="g8">
+            <img
+              src="/gallery-08.webp"
+              alt="Cobogós em dormitório contemporâneo"
+              loading="lazy"
+            />
+          </figure>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <section class="seo-copy section">
+
+      <div class="container seo-grid">
+
+        <p class="kicker">
+          IMPÉRIO CIMENTÍCIOS
+        </p>
+
+        <div>
+
+          <h2>
+            Cobogós em Jacutinga, MG
+          </h2>
+
+          <p>
+            Para quem está construindo, reformando ou especificando um projeto,
+            a Império Cimentícios oferece atendimento para escolha de modelos
+            e orçamento de elementos cimentícios.
+
+            Envie as medidas, a cidade da obra e, se tiver,
+            uma referência do modelo desejado.
+          </p>
+
+        </div>
+
+      </div>
+
+    </section>
+
+    <section class="contact" id="contato">
+
+      <div class="container contact-inner">
+
+        <p class="kicker light">
+          FALE COM A IMPÉRIO
+        </p>
+
+        <h2>
+          Seu projeto começa por uma conversa.
+        </h2>
+
+        <p>
+          Envie as medidas do espaço e uma referência do que você procura.
+          A equipe orienta o próximo passo.
+        </p>
+
+        <div class="contact-actions">
+
+          <a
+            class="button button-light"
+            href="https://wa.me/5535999432044?text=Ol%C3%A1%2C%20vim%20pelo%20site%20da%20Imp%C3%A9rio%20Ciment%C3%ADcios.%20Quero%20um%20or%C3%A7amento%20para%20meu%20projeto."
+            target="_blank"
+            rel="noopener"
+          >
+            WhatsApp: (35) 9 9943-2044
+            <span>↗</span>
+          </a>
+
+          <a
+            class="text-link light"
+            href="https://www.instagram.com/imperioc_/"
+            target="_blank"
+            rel="noopener"
+          >
+            @imperioc_ no Instagram ↗
+          </a>
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+  <footer class="footer">
+
+    <div class="container footer-grid">
+
+      <a class="brand footer-brand" href="#inicio">
+
+        <span class="brand-mark" aria-hidden="true">
+          <i></i>
+          <i></i>
+        </span>
+
+        <span>
+          <strong>IMPÉRIO</strong>
+          <small>CIMENTÍCIOS</small>
+        </span>
+
+      </a>
+
+      <p>
+        Jacutinga, Minas Gerais, Brasil
+      </p>
+
+      <p>
+        © <span id="year"></span> Império Cimentícios
+      </p>
+
+    </div>
+
+  </footer>
+
+  <a
+    class="floating-whatsapp"
+    href="https://wa.me/5535999432044?text=Ol%C3%A1%2C%20vim%20pelo%20site%20da%20Imp%C3%A9rio%20Ciment%C3%ADcios%20e%20quero%20solicitar%20um%20or%C3%A7amento."
+    target="_blank"
+    rel="noopener"
+    aria-label="Falar com a Império pelo WhatsApp"
+  >
+    WA
+  </a>
+
+  <script src="/script.js" defer></script>
+
+</body>
+</html>
